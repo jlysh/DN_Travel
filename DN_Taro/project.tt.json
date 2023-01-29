@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "DN_Taro",
+  "description": "这是一款拼旅行APP，用户可以在里面拼团任意地点旅行，也可以分享生活，致力于打造一款百万级的数字游民社区APP。",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
